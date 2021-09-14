@@ -1,0 +1,9 @@
+
+Resources
+https://github.com/IBM/fhe-toolkit-linux/blob/master/GettingStarted.md
+https://www.youtube.com/playlist?list=PL0VD16H1q5IOEQuRdgRVt1M8uQSbpVzTb
+https://arstechnica.com/gadgets/2020/07/ibm-completes-successful-field-trials-on-fully-homomorphic-encryption/?comments=1&start=80
+https://github.com/IBM/fhe-toolkit-linux/blob/master/GettingStarted.md
+
+
+

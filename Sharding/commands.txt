@@ -1,0 +1,10 @@
+
+
+Source Code
+https://github.com/hnasr/javascript_playground/tree/master/sharding
+
+Docker commands (including pgadmin)
+https://github.com/hnasr/javascript_playground/blob/master/sharding/shards/commands.txt
+
+Dockerfile & init.sql
+https://github.com/hnasr/javascript_playground/tree/master/sharding/shards
